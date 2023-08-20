@@ -1,0 +1,87 @@
+@media only screen and (max-width:1030px){
+    .banner{
+        height: auto;
+        width: auto;
+        align-items: center;
+    }
+    .banner-content{
+        width: auto;
+        height: auto;
+        text-align: center;
+    }
+    .banner-content h1{
+        width: auto;
+        height: auto;
+        margin:  auto 10px;
+        display: inline-block;
+    }
+    .banner-content p{
+        width: auto;
+        height: auto;
+        margin:  16px 10px 0;
+    }
+    .banner-content button{
+        width: auto;
+        margin: 24px 10px 26px;
+        display: inline;
+    }
+    main{
+        width: auto;
+        height: auto;
+        
+        display: block;
+    }
+    #course-content{
+        width: auto;
+        height: auto;
+        align-items: center;
+        display: block;
+        margin-top: 50px;
+        text-align: center;
+    }
+    #course-content h2{
+        margin-bottom: 20px ;
+        width: 100vw;
+        flex-direction: column;
+        text-align: center;
+    }
+    #course-content p{
+        width: 90vw;
+    }
+    .modules-list{
+        width: auto;
+        height: auto;
+    }
+    .modules-list .module{
+        width: 90vw;
+        height: auto;
+        margin: 24px auto  0;
+    }
+    #transform-world{
+        width: 100vw;
+        background-position: center;
+    }
+    #transform-world p{
+        margin-left: 10vw;
+        margin-top: 17vw;
+        text-align: left;
+    }
+    #professional-challenges h2{
+        width: 90vw;
+        word-wrap: break-word;
+    }
+    #professional-challenges img{
+        width: 100vw;
+    }
+    #professional-challenges p{
+        width: 90vw;
+    }
+    
+}
+@media only screen and(max-width:320px) {
+    footer img{
+        width: 100vw;
+        height: auto;
+        margin: 59px 10px 0;
+    }
+}
